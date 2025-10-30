@@ -13,14 +13,14 @@ website:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/KatherineVeronneau/KatherineVeronneauIntro
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Katherine Veronneau"
 
 format:
   html:
-    theme: cerulean
+    theme: morph
     toc: true
 
 editor: source

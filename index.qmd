@@ -3,17 +3,21 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/UpdatedPic.png
 ---
 
 :::{#me}
 
 ## Goals
+1. Graduate with my Master's in May!
+2. Get a job in cancer biology and get to do really cool and inspiring science for work. 
+3. Adopt a cat. 
 
 ## Education
+I graduated from the University of New Hampshire (UNH) with my Bachelor of Science in Biochemistry, Molecular, and Cellular Biology in 2025. I decided to continue my education at UNH, and I am currently pursuing my Masters in Biochemistry.
 
 ## Experience
-
+I began undergraduate research in Dr. Sarah Walker's UNH lab during my undergraduate education and continued my research into my masters program. Broadly, my research is focused on treatment for breast and ovarian cancer. More specifically, I am studying inhibitors of the STAT3 transcription factor and characterizing the effect of these inhibitors on cancer survival and metastasis.
 :::
 
 Thanks for checking out my web site!
