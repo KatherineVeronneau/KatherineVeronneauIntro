@@ -1,0 +1,9 @@
+---
+title: "cats"
+---
+
+![pirate cat](img/cutecat1.png){width="454"}
+
+![strawberrycat](img/cutecat2.png){width="467"}
+
+![nostresscat](img/cutecat3.png){width="419"}
